@@ -1,0 +1,1 @@
+start jre\bin\javaw.exe -jar Server.jar -Xms24G -Xmx36G -ip 68.194.170.31:14159 -world Xanaxia -password dickhead -localdir "D:\[STEAM]\steamapps\common\Necesse Dedicated Server\saves\worlds\Xanaxia" -motd "Welcome to Xanaxia!" -owner Zanzah -slots 6 -pausewhenempty 1 -logs clientlogs %*
