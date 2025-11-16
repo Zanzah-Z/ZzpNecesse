@@ -25,12 +25,8 @@ Socials:
 
 https://linktr.ee/zanzah
 
-Paypal Donations to help keep my website Running (~400$/yr):
+Paypal Donations to help keep my website Running (~250$/yr):
 
-https://www.paypal.com/donate/?hosted_button_id=J9BY2WV4VD4Y6
-
-Buy me a Coffee?
-
-https://ko-fi.com/zanzah_z
+[https://www.paypal.com/donate/?hosted_button_id=J9BY2WV4VD4Y6](https://www.paypal.com/donate/?hosted_button_id=ZJBZDWWWREULU)
 
 ====================
