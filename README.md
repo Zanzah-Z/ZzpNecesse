@@ -6,13 +6,13 @@ What needs editing:
 
 
 
-::Remember to remove all the <>'s from each placeholder::
+::Remember to remove all the []'s from each placeholder::
 
 
 
--Xms<minimumRAM>G
+-Xms[minimumRAM]G
 
-::Replace <minimumRAM> with GB allocation for server, i.e. '-Xms12G'
+::Replace [minimumRAM] with GB allocation for server, i.e. '-Xms12G'
 
 
 -Xmx<maximumRAM>G
