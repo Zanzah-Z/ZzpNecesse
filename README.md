@@ -69,9 +69,6 @@ Modlist Clientside Only:
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3590491462
 
-My Custom Config Files coming soon.
-
-
 ====================
 
 Website:
