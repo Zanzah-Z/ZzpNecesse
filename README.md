@@ -59,16 +59,24 @@ What needs editing:
 ::Replace [MaxPLAYERSLOTS] with any integer for however many people you want on your server at a time, more people, more lag. Especially considering all the extra content in this modpack.
 
 
+
+
+
 MY Custom Config files: (backup/zip your entire [appdata] or [serverfolder] directory before overwrites)
+
 https://drive.google.com/drive/u/1/folders/10L7i5pB1F_t0i6a8IfheZJXK6jsLv1-N
+
 
 Modlist DedicatedServer:
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3588113746
 
+
 Modlist Clientside Only:
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3590491462
+
+
 
 ====================
 
