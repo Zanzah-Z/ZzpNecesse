@@ -35,7 +35,7 @@ What needs editing:
 ::Replace [PASSWORD] with anything you want, i.e. -password TOMKYN
 
 
--localdir "[pathtoSTEAM]\steamapps\common\Necesse Dedicated Server\saves\worlds\[<WORLDNAME]"    
+-localdir "[pathtoSTEAM]\steamapps\common\Necesse Dedicated Server\saves\worlds\[WORLDNAME]"    
 
 ::Replace [pathtoSTEAM] with where you installed your Dedicated server
 
