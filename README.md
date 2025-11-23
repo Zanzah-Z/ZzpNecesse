@@ -22,7 +22,7 @@ What needs editing:
 
 -ip [IPaddress]:[PORT]
 
-::Replace [IPaddress] with External IP addres from hosted server or if local; whatsmyip.com, [PORT]> should be 14159 by default.
+::Replace [IPaddress] with External IP addres from hosted server or if local; whatsmyip.com, [PORT] should be 14159 by default.
 
 
 -world [WORLDNAME]
