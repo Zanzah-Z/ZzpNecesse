@@ -20,7 +20,7 @@ What needs editing:
 ::Replace [maximumRAM] with GB allocation for server, i.e. '-Xmx24G'
 
 
--ip [IPaddress]:[PORT]>
+-ip [IPaddress]:[PORT]
 
 ::Replace [IPaddress] with External IP addres from hosted server or if local; whatsmyip.com, [PORT]> should be 14159 by default.
 
